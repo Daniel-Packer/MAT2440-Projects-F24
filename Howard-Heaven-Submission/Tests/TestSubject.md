@@ -1,0 +1,1 @@
+Test One : Run the program and type "hello". Then type the integer "5", and then type the letter "e" to encrypt. The word you encrypted word should be "mjqqt". Now run the program again ant type "mjqqt" and type "5" as the integer, then enter "d" to decrypt the word and the result should be "hello".
