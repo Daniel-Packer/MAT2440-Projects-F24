@@ -1,0 +1,15 @@
+{
+  "name": "mat2440-projects-f24",
+  "version": "1.0.0",
+  "description": "This repository is for the use of my students in MAT2440 at City Tech for Fall 2024. See the `.pdf` [here](https://github.com/Daniel-Packer/MAT2440-Projects-F24/blob/main/Assignment/project.pdf) for details about the assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
