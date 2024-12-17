@@ -25,5 +25,4 @@ function sortedArr(array, target){
     }
  }
  
- 
- console.log(sortedArr([], 17))
+ module.exports = sortedArr;
