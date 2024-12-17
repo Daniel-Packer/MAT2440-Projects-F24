@@ -1,3 +1,5 @@
-# MAT2440-Projects-F24
-This repository is for the use of my students in MAT2440 at City Tech for Fall 2024.
-See the `.pdf` [here](https://github.com/Daniel-Packer/MAT2440-Projects-F24/blob/main/Assignment/project.pdf) for details about the assignment.
+#Linear Search Function
+For the project I implemented the linear search algorithm using Python 3.11.4. After completing the project, I ran the code using Python IDLE Shell 3.11.4 which comes installed with Python.
+
+#Tests
+Inside the .py file is an array called 'numbers' and a variable called 'integer'. 'integer' is the target for the Linear search.
