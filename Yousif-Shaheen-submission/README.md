@@ -1,0 +1,1 @@
+This c++ code uses a Caesar cipher encryption as well as a decryption. Both of decryption and encryption processes a string and it shifts the letters by 3 the encrypt function shits the letters up and the decryption shifts it by 3 letters down.
